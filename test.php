@@ -23,6 +23,6 @@ $testNumber = 13; // Thay đổi số cần kiểm tra ở đây
 if (isPrime($testNumber)) {
     echo "$testNumber là số nguyên tố.";
 } else {
-    echo "$testNumber không phải là số nguyên tố.";
+    echo "$testNumber không phải là số nguyên tố.àghjklasfghaaaaa";
 }
 ?>
